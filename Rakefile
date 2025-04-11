@@ -70,4 +70,17 @@ redirect_to: #{url}
   puts "Redirects set up."
 end
 
-task all: [:clean, :unpack_website, :setup_redirects]
+desc "Set up extra files for the website"
+task :setup_extra_files do
+  extra_files_dir = "extra-files"
+  docs_dir = "docs"
+
+  if File.directory?(extra_files_dir)
+    cp_r(Dir.glob("#{extra_files_dir}/*"), docs_dir)
+    puts "Extra files copied from #{extra_files_dir} to #{docs_dir}."
+  else
+    puts "Directory #{extra_files_dir} does not exist. Skipping extra files setup."
+  end
+end
+
+task all: [:clean, :unpack_website, :setup_redirects, :setup_extra_files]
