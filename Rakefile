@@ -75,6 +75,8 @@ task :setup_extra_files do
   extra_files_dir = "extra-files"
   docs_dir = "docs"
 
+  cp("_config.yml", docs_dir)
+
   if File.directory?(extra_files_dir)
     cp_r(Dir.glob("#{extra_files_dir}/*"), docs_dir)
     puts "Extra files copied from #{extra_files_dir} to #{docs_dir}."
