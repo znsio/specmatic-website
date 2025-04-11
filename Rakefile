@@ -8,7 +8,7 @@ desc "Unpack the website zip file"
 task :unpack_website do
   mkdir_p "website"
   puts "Unpacking website.zip..."
-  sh("unzip -qo tmp/website.zip -d website")
+  sh("unzip -qo tmp/website.zip -d docs")
   puts "Unpacking complete."
 end
 
