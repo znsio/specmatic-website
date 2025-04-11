@@ -1,7 +1,7 @@
 
 desc "Remove everything!"
 task :clean do
-  rm_rf "website"
+  rm_rf "docs"
 end
 
 desc "Unpack the website zip file"
