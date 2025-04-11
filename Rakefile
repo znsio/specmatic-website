@@ -58,8 +58,8 @@ task :setup_redirects do
   }
 
   redirects.each do |file, url|
-    mkdir_p "website/#{File.dirname(file)}"
-    File.open("website/#{file}", 'w') do |f|
+    mkdir_p "docs/#{File.dirname(file)}"
+    File.open("docs/#{file}", 'w') do |f|
       f.write <<-HTML
 ---
 redirect_to: #{url}
