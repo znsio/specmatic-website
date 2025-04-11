@@ -14,3 +14,5 @@ Documentation for [Specmatic](https://specmatic.io)
   git commit -m 'Your commit message'
   git push
   ```
+
+> Note: For any extra files that need to be hosted, Just put them under the `extra-files` folder

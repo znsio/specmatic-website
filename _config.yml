@@ -6,5 +6,4 @@ redirect_from:
 
 exclude:
   - Rakefile
-  - CNAME
   - README.md
