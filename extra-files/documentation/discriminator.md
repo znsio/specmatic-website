@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/discriminator.html
+redirect_to: https://docs.specmatic.io/documentation/discriminator.html
 ---

@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/stubbing-kafka.html
+redirect_to: https://docs.specmatic.io/documentation/stubbing-kafka.html
 ---

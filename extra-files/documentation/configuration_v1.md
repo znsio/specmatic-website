@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/configuration_v1.html
+redirect_to: https://docs.specmatic.io/documentation/configuration_v1.html
 ---

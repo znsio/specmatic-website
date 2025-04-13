@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/reading_reports.html
+redirect_to: https://docs.specmatic.io/documentation/reading_reports.html
 ---

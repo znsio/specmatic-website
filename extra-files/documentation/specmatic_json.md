@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/specmatic_json.html
+redirect_to: https://docs.specmatic.io/documentation/specmatic_json.html
 ---

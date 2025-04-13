@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/continuous_integration.html
+redirect_to: https://docs.specmatic.io/documentation/continuous_integration.html
 ---

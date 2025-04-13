@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/backward_compatibility.html
+redirect_to: https://docs.specmatic.io/documentation/backward_compatibility.html
 ---

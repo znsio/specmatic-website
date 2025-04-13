@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/graphql.html
+redirect_to: https://docs.specmatic.io/documentation/graphql.html
 ---

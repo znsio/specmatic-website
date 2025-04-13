@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/authoring_contracts.html
+redirect_to: https://docs.specmatic.io/documentation/authoring_contracts.html
 ---

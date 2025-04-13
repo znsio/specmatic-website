@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/test_data_format.html
+redirect_to: https://docs.specmatic.io/documentation/test_data_format.html
 ---

@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/license_key.html
+redirect_to: https://docs.specmatic.io/documentation/license_key.html
 ---
