@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/language.html
+redirect_to: https://docs.specmatic.io/documentation/language.html
 ---

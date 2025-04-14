@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/authentication.html
+redirect_to: https://docs.specmatic.io/documentation/authentication.html
 ---

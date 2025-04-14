@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/sample_projects.html
+redirect_to: https://docs.specmatic.io/documentation/sample_projects.html
 ---

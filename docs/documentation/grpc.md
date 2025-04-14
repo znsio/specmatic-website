@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/grpc.html
+redirect_to: https://docs.specmatic.io/documentation/grpc.html
 ---

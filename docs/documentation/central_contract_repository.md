@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/central_contract_repository.html
+redirect_to: https://docs.specmatic.io/documentation/central_contract_repository.html
 ---

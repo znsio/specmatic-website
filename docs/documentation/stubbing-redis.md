@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/stubbing-redis.html
+redirect_to: https://docs.specmatic.io/documentation/stubbing-redis.html
 ---

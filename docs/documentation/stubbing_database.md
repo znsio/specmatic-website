@@ -1,3 +1,3 @@
 ---
-redirect_to: https://docs.specmatic.io/stubbing_database.html
+redirect_to: https://docs.specmatic.io/documentation/stubbing_database.html
 ---
