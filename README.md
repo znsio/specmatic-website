@@ -6,10 +6,13 @@ Documentation for [Specmatic](https://specmatic.io)
 
 * Download the zip file from wordpress
 * Copy the zip file to `tmp/website.zip`
-* Execute the following code:
+* Execute the following code in terminal/powershell
   ```shell
   git pull --rebase
-  rake all # to clean up the entire contents, unpack the new website, and setup redirects
+
+  # clean up the entire contents, unpack the new website, and setup redirects
+  rake all # for mac/linux
+  doit.ps1 # windows powershell, if you have it installed
   git add .
   git commit -m 'Your commit message'
   git push
