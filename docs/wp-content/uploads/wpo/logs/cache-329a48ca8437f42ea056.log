@@ -1,0 +1,463 @@
+[2025-04-07 05:00:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6810 has been purged, triggered by action: save_post 
+[2025-04-08 11:19:44 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:19:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:19:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:19:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:20:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:20:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:20:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:20:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/?post_type=appearance&p=6819 has been purged, triggered by action: save_post 
+[2025-04-08 11:20:40 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-04-08 11:20:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 11:34:02 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-08 11:34:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/6819/ has been purged, triggered by action: save_post 
+[2025-04-08 11:34:02 : INFO] - Cache for archive page associated with post_type: appearance and Title: "" has been purged, triggered by action: save_post 
+[2025-04-08 13:23:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:23:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:23:58 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:23:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:31:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-08 13:31:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/6819/ has been purged, triggered by action: save_post 
+[2025-04-08 13:31:12 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Observability for Engineering Teams" has been purged, triggered by action: save_post 
+[2025-04-08 13:32:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-08 13:32:01 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/observability-for-engineering-teams/ has been purged, triggered by action: save_post 
+[2025-04-08 13:32:01 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Observability for Engineering Teams" has been purged, triggered by action: save_post 
+[2025-04-08 13:49:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:49:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:49:44 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:49:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:57:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:57:43 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:57:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-08 13:57:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 06:51:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-09 06:51:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/?post_type=appearance&p=6819 has been purged, triggered by action: save_post 
+[2025-04-09 06:51:40 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Observability for Engineering Teams" has been purged, triggered by action: save_post 
+[2025-04-09 07:12:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:12:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:12:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:12:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:12:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:13:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:13:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:13:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:14:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:14:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:14:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:14:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-09 07:17:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=6856 has been purged, triggered by action: save_post 
+[2025-04-09 07:17:05 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=6856, triggered by action: save_post 
+[2025-04-09 07:17:05 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 6856 has been purged, triggered by action: save_post 
+[2025-04-09 07:17:05 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-04-09 13:39:08 : INFO] - Pruning the Cache log file 
+[2025-04-09 13:44:25 : INFO] - Full Cache Purge triggered by: WPO_Page_Cache::disable 
+[2025-04-09 13:44:25 : INFO] - Pruning the Cache log file 
+[2025-04-14 08:19:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=6859 has been purged, triggered by action: save_post 
+[2025-04-14 08:19:07 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=6859, triggered by action: save_post 
+[2025-04-14 08:19:07 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 6859 has been purged, triggered by action: save_post 
+[2025-04-14 08:19:07 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-04-17 00:45:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6860 has been purged, triggered by action: save_post 
+[2025-04-17 00:47:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-17 00:47:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-17 00:53:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-17 00:53:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-17 00:53:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-23 23:41:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=6866 has been purged, triggered by action: save_post 
+[2025-04-23 23:41:57 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=6866, triggered by action: save_post 
+[2025-04-23 23:41:57 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 6866 has been purged, triggered by action: save_post 
+[2025-04-23 23:41:57 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-04-23 23:54:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:19 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:54:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:55:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:55:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:55:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-23 23:55:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 02:50:39 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 02:50:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-04-24 02:50:39 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-04-24 02:51:00 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 02:51:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-04-24 02:51:00 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-04-24 02:58:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 02:58:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-04-24 02:58:57 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-04-24 02:59:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 02:59:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-04-24 02:59:18 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-04-24 02:59:57 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 02:59:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-04-24 02:59:57 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-04-24 03:02:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:02:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:02:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:02:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:28:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/?post_type=appearance&p=6905 has been purged, triggered by action: save_post 
+[2025-04-24 03:28:09 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-04-24 03:31:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 03:31:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/6905/ has been purged, triggered by action: save_post 
+[2025-04-24 03:31:53 : INFO] - Cache for archive page associated with post_type: appearance and Title: "" has been purged, triggered by action: save_post 
+[2025-04-24 03:33:00 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 03:33:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/functional-fix-kotlin-error-handling-made-elegant/ has been purged, triggered by action: save_post 
+[2025-04-24 03:33:00 : INFO] - Cache for archive page associated with post_type: appearance and Title: "The Functional Fix: Kotlin Error Handling Made Elegant" has been purged, triggered by action: save_post 
+[2025-04-24 03:36:14 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 03:36:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/functional-fix-kotlin-error-handling-made-elegant/ has been purged, triggered by action: save_post 
+[2025-04-24 03:36:14 : INFO] - Cache for archive page associated with post_type: appearance and Title: "The Functional Fix: Kotlin Error Handling Made Elegant" has been purged, triggered by action: save_post 
+[2025-04-24 03:40:20 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-24 03:40:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/functional-fix-kotlin-error-handling-made-elegant/ has been purged, triggered by action: save_post 
+[2025-04-24 03:40:20 : INFO] - Cache for archive page associated with post_type: appearance and Title: "The Functional Fix: Kotlin Error Handling Made Elegant" has been purged, triggered by action: save_post 
+[2025-04-24 03:43:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:43:10 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:43:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:43:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:47:03 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:47:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:47:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:47:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:49:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:49:01 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:49:03 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:49:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-24 03:50:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-24 03:55:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 03:55:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 04:19:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 04:19:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 04:19:24 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 04:44:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 04:44:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 04:44:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:50:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:50:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:50:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:52:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:52:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:52:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:53:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:53:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:53:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:54:01 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:54:01 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:54:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:54:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:54:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:54:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:55:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:55:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 05:55:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025-2/ has been purged, triggered by action: save_post 
+[2025-04-24 06:04:44 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-24 06:04:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 00:02:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:02:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:03:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:03:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:05:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:05:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:22:25 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:22:26 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:22:26 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:23:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:23:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:23:24 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:25:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:25:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:25:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:27:44 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:27:44 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:27:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:33:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:33:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 00:33:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:01:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:01:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:02:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:02:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:27:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:27:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:27:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:52:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:52:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:52:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:57:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:57:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:58:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:58:03 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 02:59:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 02:59:19 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 03:04:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 03:04:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 03:06:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:06:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:06:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:07:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:07:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:07:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:15:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:15:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:15:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:19:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:19:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:19:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:22:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:22:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:22:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/?page_id=6922 has been purged, triggered by action: save_post 
+[2025-04-28 03:23:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 03:23:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 03:23:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 03:44:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 03:44:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 03:44:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:01:27 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:01:27 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:01:27 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:01:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:01:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:01:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:03:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:03:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:03:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:11:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:11:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:11:29 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:15:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:15:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:15:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:22:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:22:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:22:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:24:19 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:24:19 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:24:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:25:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:25:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 04:25:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 10:18:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 10:18:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 10:18:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 10:51:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 10:51:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 10:51:43 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:14:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:14:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:14:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:18:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:18:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:18:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:22:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:22:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:22:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:23:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:23:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:23:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:24:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:24:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:24:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-28 11:46:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:46:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:46:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:47:30 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:47:30 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:47:30 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:48:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:48:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:48:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:48:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:48:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:48:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:54:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:54:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:54:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:55:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:55:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:55:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:57:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:57:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:57:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:59:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:59:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 11:59:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 22:00:31 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 22:00:31 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 22:00:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 22:04:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 22:04:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-28 22:04:19 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 01:56:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 01:56:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 01:56:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 01:58:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 01:58:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 01:58:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 02:01:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 02:01:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 02:01:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 02:24:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 02:24:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 02:24:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/apidays-india-2025/ has been purged, triggered by action: save_post 
+[2025-04-29 02:54:44 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:54:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:54:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:54:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:57:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:57:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:57:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 02:57:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:09:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:09:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:09:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:09:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:17:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:17:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:17:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:17:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:18:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:18:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:18:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 03:18:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 04:02:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 04:02:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 04:02:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 04:02:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:19:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 10:19:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 10:19:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 10:26:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:26:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:26:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:26:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:30:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 10:30:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 10:30:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-29 10:35:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:35:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:35:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-29 10:35:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:04:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:04:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:04:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:04:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:09:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 02:10:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:10:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:10:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:11:31 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:11:31 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:11:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:12:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:12:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:12:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:32:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:32:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:32:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:35:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:35:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:35:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:35:58 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:36:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:36:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:36:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 02:36:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-04-30 03:31:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/?post_type=appearance&p=7208 has been purged, triggered by action: save_post 
+[2025-04-30 03:31:57 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-04-30 03:40:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-30 03:40:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/10x-devex-shift-left-api-governance/ has been purged, triggered by action: save_post 
+[2025-04-30 03:40:48 : INFO] - Cache for archive page associated with post_type: appearance and Title: "10x DevEx &#8211; Shift Left API Governance" has been purged, triggered by action: save_post 
+[2025-04-30 03:41:09 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-04-30 03:41:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/10x-devex-shift-left-api-governance/ has been purged, triggered by action: save_post 
+[2025-04-30 03:41:09 : INFO] - Cache for archive page associated with post_type: appearance and Title: "10x DevEx &#8211; Shift Left API Governance" has been purged, triggered by action: save_post 
+[2025-04-30 10:14:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:19 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:14:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:25 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:26 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-04-30 10:19:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-01 04:49:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/security-policy/ has been purged, triggered by action: save_post 
+[2025-05-01 04:49:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/security-policy/ has been purged, triggered by action: save_post 
+[2025-05-01 04:49:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/security-policy/ has been purged, triggered by action: save_post 
+[2025-05-01 05:21:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=7235 has been purged, triggered by action: save_post 
+[2025-05-01 05:21:23 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7235, triggered by action: save_post 
+[2025-05-01 05:21:23 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 7235 has been purged, triggered by action: save_post 
+[2025-05-01 05:21:23 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-05-01 05:28:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/security-policy/ has been purged, triggered by action: save_post 
+[2025-05-01 05:28:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/security-policy/ has been purged, triggered by action: save_post 
+[2025-05-01 05:28:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/security-policy/ has been purged, triggered by action: save_post 
+[2025-05-01 11:16:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-01 11:16:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-01 11:16:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-01 11:16:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-01 11:17:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:17:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:17:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:17:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:20:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:20:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:20:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-01 11:20:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-02 02:27:25 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=7254 has been purged, triggered by action: save_post 
+[2025-05-02 02:27:25 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7254, triggered by action: save_post 
+[2025-05-02 02:27:25 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 7254 has been purged, triggered by action: save_post 
+[2025-05-02 02:27:25 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-05-05 08:27:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:27:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:27:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:27:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:29:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:29:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:29:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 08:29:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 09:39:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 09:39:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 09:39:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 09:39:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-05-05 10:16:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:16:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:16:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:16:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:22:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:22:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:22:14 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:22:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-05 10:53:20 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-05-05 10:53:21 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-05-05 10:53:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-05-05 10:54:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=7281 has been purged, triggered by action: save_post 
+[2025-05-05 10:54:11 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7281, triggered by action: save_post 
+[2025-05-05 10:54:11 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 7281 has been purged, triggered by action: save_post 
+[2025-05-05 10:54:11 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-05-05 11:06:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=7282 has been purged, triggered by action: save_post 
+[2025-05-05 11:06:02 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7282, triggered by action: save_post 
+[2025-05-05 11:06:02 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 7282 has been purged, triggered by action: save_post 
+[2025-05-05 11:06:02 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-05-05 13:30:37 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-05-05 22:29:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=7283 has been purged, triggered by action: save_post 
+[2025-05-05 22:29:34 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7283, triggered by action: save_post 
+[2025-05-05 22:29:34 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/update-see-how-specmatic-is-transforming-api-testing-development/) adjacent to post with id: 7283 has been purged, triggered by action: save_post 
+[2025-05-05 22:29:34 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-05-06 00:55:50 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-05-06 00:56:29 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-05-06 00:58:17 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-05-06 02:07:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-05-06 02:07:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-05-06 02:07:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
