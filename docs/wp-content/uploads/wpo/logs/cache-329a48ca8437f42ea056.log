@@ -535,3 +535,53 @@
 [2025-05-07 03:25:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
 [2025-05-07 03:25:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
 [2025-05-07 03:25:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-05-07 05:40:27 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 05:40:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/multi-protocol-apis-designing-unified-interface-for-eda-using-async-apis/ has been purged, triggered by action: save_post 
+[2025-05-07 05:40:28 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Multi-Protocol APIs: Designing a Unified Interface for EDA using Async APIs" has been purged, triggered by action: save_post 
+[2025-05-07 05:51:11 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 05:51:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-05-07 05:51:11 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-05-07 05:53:48 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 05:53:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-05-07 05:53:48 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-05-07 05:56:13 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 05:56:13 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-05-07 05:56:13 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-05-07 05:58:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 05:58:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-05-07 05:58:05 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-05-07 06:00:18 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:00:18 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/multi-protocol-apis-designing-unified-interface-for-eda-using-async-apis/ has been purged, triggered by action: save_post 
+[2025-05-07 06:00:18 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Multi-Protocol APIs: Designing a Unified Interface for EDA using Async APIs" has been purged, triggered by action: save_post 
+[2025-05-07 06:04:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:04:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/10x-devex-shift-left-api-governance/ has been purged, triggered by action: save_post 
+[2025-05-07 06:04:52 : INFO] - Cache for archive page associated with post_type: appearance and Title: "10x DevEx &#8211; Shift Left API Governance" has been purged, triggered by action: save_post 
+[2025-05-07 06:08:12 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:08:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/functional-fix-kotlin-error-handling-made-elegant/ has been purged, triggered by action: save_post 
+[2025-05-07 06:08:12 : INFO] - Cache for archive page associated with post_type: appearance and Title: "The Functional Fix: Kotlin Error Handling Made Elegant" has been purged, triggered by action: save_post 
+[2025-05-07 06:10:29 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:10:29 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/testing-api-resiliency-using-kotlin-leveraging-functional-programming-at-scale/ has been purged, triggered by action: save_post 
+[2025-05-07 06:10:29 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Testing API Resiliency using Kotlin: Leveraging Functional Programming at Scale" has been purged, triggered by action: save_post 
+[2025-05-07 06:12:23 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:12:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/contract-driven-development-for-event-driven-architecture/ has been purged, triggered by action: save_post 
+[2025-05-07 06:12:23 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Contract-Driven Development for Event-Driven Architecture" has been purged, triggered by action: save_post 
+[2025-05-07 06:13:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:13:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:13:43 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/tmforums-asyncapis-for-a-new-era-of-event-driven-architechture/ has been purged, triggered by action: save_post 
+[2025-05-07 06:13:43 : INFO] - Cache for archive page associated with post_type: appearance and Title: "TMForum&#8217;s AsyncAPIs for a New Era of Event-Driven Architechture" has been purged, triggered by action: save_post 
+[2025-05-07 06:16:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:16:52 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:16:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/using-api-specs-as-an-executable-contract-to-mock-test-microservices/ has been purged, triggered by action: save_post 
+[2025-05-07 06:16:53 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Leveraging an AsyncAPI Spec for Mocking and Testing Microservices" has been purged, triggered by action: save_post 
+[2025-05-07 06:18:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:18:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:18:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/platform-summit-avoiding-apipocalypse-api-resiliency-testing-ftw/ has been purged, triggered by action: save_post 
+[2025-05-07 06:18:37 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Resiliency Testing: Ensuring Robustness in Modern Applications" has been purged, triggered by action: save_post 
+[2025-05-07 06:18:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:18:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:18:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/platform-summit-avoiding-apipocalypse-api-resiliency-testing-ftw/ has been purged, triggered by action: save_post 
+[2025-05-07 06:18:50 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Resiliency Testing: Ensuring Robustness in Modern Applications" has been purged, triggered by action: save_post 
+[2025-05-07 06:25:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:25:05 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-05-07 06:25:05 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/api-design-first-in-practise-an-experience-report/ has been purged, triggered by action: save_post 
+[2025-05-07 06:25:05 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design First: A Practical Approach to Effective API Development" has been purged, triggered by action: save_post 
