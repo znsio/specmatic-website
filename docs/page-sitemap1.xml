@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemaps_xsl.xsl"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>/</loc>
-<lastmod>2025-05-19T13:00:00+05:30</lastmod>
+<lastmod>2025-05-20T09:13:16+05:30</lastmod>
 <image:image>
 <image:loc><![CDATA[/wp-content/uploads/2022/09/Open-API-Initiative-png.png]]></image:loc>
 </image:image>
@@ -93,7 +93,7 @@
 <image:loc><![CDATA[/wp-content/uploads/2024/06/Selenium-Conf-2024-Naresh-SQ-300x300.jpg]]></image:loc>
 </image:image>
 <image:image>
-<image:loc><![CDATA[/wp-content/uploads/2023/03/API-1-300x117.jpg]]></image:loc>
+<image:loc><![CDATA[/wp-content/uploads/2025/05/Life-of-API-300x169.jpg]]></image:loc>
 </image:image>
 <image:image>
 <image:loc><![CDATA[/wp-content/uploads/2024/08/naresh-jain.jpg]]></image:loc>
