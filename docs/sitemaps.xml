@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/sitemaps_xsl.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://specmatic.io/sitemaps_xsl.xsl"?>
 <sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap>
-<loc>/post-sitemap1.xml</loc>
-<lastmod>2025-05-12T05:37:59+05:30</lastmod>
+<loc>https://specmatic.io/post-sitemap1.xml</loc>
+<lastmod>2025-05-28T08:50:52+05:30</lastmod>
 </sitemap>
 <sitemap>
-<loc>/page-sitemap1.xml</loc>
-<lastmod>2025-05-21T13:47:33+05:30</lastmod>
+<loc>https://specmatic.io/page-sitemap1.xml</loc>
+<lastmod>2025-05-28T08:59:17+05:30</lastmod>
 </sitemap>
 <sitemap>
-<loc>/features-sitemap1.xml</loc>
+<loc>https://specmatic.io/features-sitemap1.xml</loc>
 <lastmod>2024-10-02T02:44:30+05:30</lastmod>
 </sitemap>
 <sitemap>
-<loc>/appearance-sitemap1.xml</loc>
+<loc>https://specmatic.io/appearance-sitemap1.xml</loc>
 <lastmod>2025-05-07T06:25:02+05:30</lastmod>
 </sitemap>
 <sitemap>
-<loc>/article-sitemap1.xml</loc>
+<loc>https://specmatic.io/article-sitemap1.xml</loc>
 <lastmod>2025-05-20T03:52:34+05:30</lastmod>
 </sitemap>
 </sitemapindex>
