@@ -27,16 +27,29 @@ __( 'You’ll need Elementor Pro to use this feature.', 'elementor' );
 __( 'Remove dynamic value', 'elementor' );
 __( 'Dynamic tags', 'elementor' );
 __( 'Settings', 'elementor' );
+/* translators: %s is the class name. */
+__( `class %s applied`, 'elementor' );
+/* translators: %s is the class name. */
+__( `class %s removed`, 'elementor' );
 __( 'local', 'elementor' );
 __( 'Classes', 'elementor' );
 __( 'Type class name', 'elementor' );
+__( 'Sorry, nothing matched', 'elementor' );
+__( 'With your role as an editor,', 'elementor' );
+__( 'you can only use existing classes.', 'elementor' );
+__( 'Clear & try again', 'elementor' );
 __(
 					'You’ve reached the limit of 50 classes. Please remove an existing one to create a new class.',
 					'elementor'
 				);
 __( 'States', 'elementor' );
+__( 'With your role as an editor, you can only use existing states.', 'elementor' );
 __( 'Has style', 'elementor' );
 __( 'Remove', 'elementor' );
+__(
+					'With your role as an editor, you can use existing classes but can’t modify them.',
+					'elementor'
+				);
 __( 'Rename', 'elementor' );
 __( 'Open CSS Class Menu', 'elementor' );
 __( 'Word spacing', 'elementor' );
@@ -77,6 +90,8 @@ __( 'Italic', 'elementor' );
 __( 'Font style', 'elementor' );
 __( 'Font size', 'elementor' );
 __( 'Font family', 'elementor' );
+__( 'Column gap', 'elementor' );
+__( 'Columns', 'elementor' );
 __( 'Margin', 'elementor' );
 __( 'Padding', 'elementor' );
 __( 'Width', 'elementor' );
@@ -85,6 +100,7 @@ __( 'Min width', 'elementor' );
 __( 'Min height', 'elementor' );
 __( 'Max width', 'elementor' );
 __( 'Max height', 'elementor' );
+__( 'Aspect Ratio', 'elementor' );
 __( 'Visible', 'elementor' );
 __( 'Hidden', 'elementor' );
 __( 'Auto', 'elementor' );
