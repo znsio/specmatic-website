@@ -1392,3 +1392,50 @@
 [2025-06-05 03:35:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
 [2025-06-05 03:35:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
 [2025-06-05 03:35:42 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:17:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:17:53 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:17:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:17:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:18:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:18:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:18:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:18:43 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:18:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/?post_type=appearance&p=7839 has been purged, triggered by action: save_post 
+[2025-06-06 06:18:57 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Auto Draft" has been purged, triggered by action: save_post 
+[2025-06-06 06:39:49 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-06 06:39:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/using-graphql-sdl-files-as-executable-api-contracts/ has been purged, triggered by action: save_post 
+[2025-06-06 06:39:49 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Using GraphQL SDL files as executable API Contracts" has been purged, triggered by action: save_post 
+[2025-06-06 06:41:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-06 06:41:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/using-graphql-sdl-files-as-executable-api-contracts/ has been purged, triggered by action: save_post 
+[2025-06-06 06:41:08 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Using GraphQL SDL files as executable API Contracts" has been purged, triggered by action: save_post 
+[2025-06-06 06:48:24 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:48:26 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:48:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:48:29 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:50:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:50:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:50:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:50:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:51:52 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:51:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:51:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:51:57 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:53:54 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:53:56 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:53:58 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:54:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:57:22 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:57:24 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:57:26 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 06:57:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-06 07:00:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-06 07:00:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/using-graphql-sdl-files-as-executable-api-contracts/ has been purged, triggered by action: save_post 
+[2025-06-06 07:00:40 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Using GraphQL SDL files as executable API Contracts" has been purged, triggered by action: save_post 
