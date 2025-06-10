@@ -1,4 +1,4 @@
-/*! elementor - v3.29.0 - 28-05-2025 */
+/*! elementor - v3.29.0 - 04-06-2025 */
 .elementor-control-unit-1 {
   width: 27px;
 }
@@ -4970,7 +4970,8 @@ body.e-is-device-mode:not(.elementor-device-desktop) #elementor-preview-responsi
   bottom: 0;
 }
 #elementor-preview-responsive-wrapper .ui-resizable-e {
-  right: 0;
+  width: 10px;
+  right: -5px;
 }
 #elementor-preview-responsive-wrapper .ui-resizable-w {
   left: 0;

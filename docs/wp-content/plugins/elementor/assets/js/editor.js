@@ -1,4 +1,4 @@
-/*! elementor - v3.29.0 - 28-05-2025 */
+/*! elementor - v3.29.0 - 04-06-2025 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -9768,7 +9768,16 @@ InsertTemplateHandler = Marionette.Behavior.extend({
       model: this.view.model
     };
     this.ui.insertButton.addClass('elementor-disabled');
-    if ('remote' === args.model.get('source') && !elementor.config.library_connect.is_connected) {
+    var activeSource = args.model.get('source');
+
+    /**
+     * Filter template source.
+     *
+     * @param bool   isRemote     - If `true` the source is a remote source.
+     * @param string activeSource - The current template source.
+     */
+    var isRemote = elementor.hooks.applyFilters('templates/source/is-remote', 'remote' === activeSource, activeSource);
+    if (isRemote && !elementor.config.library_connect.is_connected) {
       $e.route('library/connect', args);
       return;
     }
@@ -10402,12 +10411,12 @@ var EventManager = exports.EventManager = /*#__PURE__*/function () {
     }
   }, {
     key: "sendTemplateSavedEvent",
-    value: function sendTemplateSavedEvent() {
-      return this.sendEvent(EVENTS_MAP.TEMPLATE_SAVED, {
+    value: function sendTemplateSavedEvent(data) {
+      return this.sendEvent(EVENTS_MAP.TEMPLATE_SAVED, _objectSpread({
         location: elementor.editorEvents.config.locations.templatesLibrary.library,
         secondaryLocation: elementor.editorEvents.config.secondaryLocations.templateLibrary.saveModal,
         trigger: elementor.editorEvents.config.triggers.click
-      });
+      }, data));
     }
   }, {
     key: "sendTemplateTransferEvent",

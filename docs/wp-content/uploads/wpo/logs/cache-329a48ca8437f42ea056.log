@@ -1439,3 +1439,15 @@
 [2025-06-06 07:00:40 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
 [2025-06-06 07:00:40 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/using-graphql-sdl-files-as-executable-api-contracts/ has been purged, triggered by action: save_post 
 [2025-06-06 07:00:40 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Using GraphQL SDL files as executable API Contracts" has been purged, triggered by action: save_post 
+[2025-06-10 04:31:07 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-10 04:31:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-10 04:31:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-10 04:31:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-10 04:32:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-10 04:32:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-10 04:32:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-10 04:32:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-10 04:34:27 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=7886 has been purged, triggered by action: save_post 
+[2025-06-10 04:34:27 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7886, triggered by action: save_post 
+[2025-06-10 04:34:27 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/) adjacent to post with id: 7886 has been purged, triggered by action: save_post 
+[2025-06-10 04:34:27 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 

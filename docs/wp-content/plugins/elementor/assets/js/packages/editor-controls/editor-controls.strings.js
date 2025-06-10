@@ -45,14 +45,17 @@ __( 'Blur', 'elementor' );
 __( 'Spread', 'elementor' );
 __( 'Auto', 'elementor' );
 __( 'Custom', 'elementor' );
-__( 'Width', 'elementor' );
-__( 'Height', 'elementor' );
 __( 'Add item', 'elementor' );
 __( 'Duplicate', 'elementor' );
 __( 'Show', 'elementor' );
 __( 'Hide', 'elementor' );
 __( 'Remove', 'elementor' );
 __( 'Open item', 'elementor' );
+__( 'Font Family', 'elementor' );
+__( 'Search', 'elementor' );
+__( 'Sorry, nothing matched', 'elementor' );
+__( 'Try something else.', 'elementor' );
+__( 'Clear & try again', 'elementor' );
 __( 'Enable Unfiltered Uploads', 'elementor' );
 __(
 	'Before you enable unfiltered files upload, note that such files include a security risk. Elementor does run a process to remove possible malicious code, but there is still risk involved when using such files.',
@@ -71,11 +74,6 @@ __(
 __( 'Cancel', 'elementor' );
 __( 'Enable', 'elementor' );
 __( 'Got it', 'elementor' );
-__( 'Font Family', 'elementor' );
-__( 'Search', 'elementor' );
-__( 'Sorry, nothing matched', 'elementor' );
-__( 'Try something else.', 'elementor' );
-__( 'Clear & try again', 'elementor' );
 __( 'Color', 'elementor' );
 __( 'Thumbnail - 150 x 150', 'elementor' );
 __( 'Medium - 300 x 300', 'elementor' );
