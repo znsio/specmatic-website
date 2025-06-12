@@ -1452,3 +1452,11 @@
 [2025-06-10 04:34:27 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/) adjacent to post with id: 7886 has been purged, triggered by action: save_post 
 [2025-06-10 04:34:27 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
 [2025-06-11 13:12:07 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-06-12 04:03:30 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-12 04:03:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-12 04:03:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-12 04:03:35 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-12 04:04:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-12 04:04:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-12 04:04:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
+[2025-06-12 04:04:33 : INFO] - Cache for URL: https://specmatic.dvox.biz/women-in-apis-2025-breaking-silence/ has been purged, triggered by action: save_post 
