@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://specmatic.io/sitemaps_xsl.xsl"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
+<loc>https://specmatic.io/roadmap/</loc>
+<lastmod>2025-06-16T06:27:29+05:30</lastmod></url>
+<url>
+<loc>https://specmatic.io/pricing/</loc>
+<lastmod>2025-06-16T06:18:08+05:30</lastmod></url>
+<url>
 <loc>https://specmatic.io/women-in-apis-2025-breaking-silence/</loc>
 <lastmod>2025-06-12T09:34:33+05:30</lastmod></url>
 <url>
@@ -8,9 +14,6 @@
 <url>
 <loc>https://specmatic.io/apidays-india-2025/</loc>
 <lastmod>2025-05-27T14:55:19+05:30</lastmod></url>
-<url>
-<loc>https://specmatic.io/roadmap/</loc>
-<lastmod>2025-05-06T07:37:12+05:30</lastmod></url>
 <url>
 <loc>https://specmatic.io/security-policy/</loc>
 <lastmod>2025-05-01T10:58:33+05:30</lastmod></url>
@@ -32,9 +35,6 @@
 <url>
 <loc>https://specmatic.io/articles/</loc>
 <lastmod>2024-12-19T11:58:41+05:30</lastmod></url>
-<url>
-<loc>https://specmatic.io/pricing/</loc>
-<lastmod>2024-11-25T08:21:42+05:30</lastmod></url>
 <url>
 <loc>https://specmatic.io/jobs-at-specmatic/</loc>
 <lastmod>2024-08-02T09:43:27+05:30</lastmod></url>

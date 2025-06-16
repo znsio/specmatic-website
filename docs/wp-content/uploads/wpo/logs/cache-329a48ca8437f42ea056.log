@@ -1464,3 +1464,67 @@
 [2025-06-12 05:07:01 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=7904, triggered by action: save_post 
 [2025-06-12 05:07:01 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/) adjacent to post with id: 7904 has been purged, triggered by action: save_post 
 [2025-06-12 05:07:01 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-06-13 04:49:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-13 04:49:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/10x-devex-shift-left-api-governance/ has been purged, triggered by action: save_post 
+[2025-06-13 04:49:08 : INFO] - Cache for archive page associated with post_type: appearance and Title: "10x DevEx &#8211; Shift Left API Governance" has been purged, triggered by action: save_post 
+[2025-06-13 04:50:25 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-13 04:50:25 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/how-to-identify-avoid-api-design-anti-patterns/ has been purged, triggered by action: save_post 
+[2025-06-13 04:50:25 : INFO] - Cache for archive page associated with post_type: appearance and Title: "API Design Anti-patterns: How to identify &#038; avoid them" has been purged, triggered by action: save_post 
+[2025-06-13 04:52:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/reliable-by-design-building-guardrails-for-ai-and-other-unpredictable-systems/ has been purged, triggered by action: save_post 
+[2025-06-13 04:52:11 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Reliable by Design: Building Guardrails for AI and Other Unpredictable Systems" has been purged, triggered by action: save_post 
+[2025-06-13 04:57:27 : INFO] - Cache for URL: https://specmatic.dvox.biz/appearance/reliable-by-design-building-guardrails-for-ai-and-other-unpredictable-systems/ has been purged, triggered by action: save_post 
+[2025-06-13 04:57:27 : INFO] - Cache for archive page associated with post_type: appearance and Title: "Reliable by Design: Building Guardrails for AI and Other Unpredictable Systems" has been purged, triggered by action: save_post 
+[2025-06-15 22:30:36 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-15 22:30:36 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/api-resiliency-testing/ has been purged, triggered by action: save_post 
+[2025-06-15 22:31:39 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-15 22:31:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/contract-driven-development-for-http-by-leveraging-your-openapi-specs-as-executable-contracts/ has been purged, triggered by action: save_post 
+[2025-06-16 00:20:34 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:20:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/jms-contract-driven-development-leverage-asyncapi-specs-as-executable-contracts/ has been purged, triggered by action: save_post 
+[2025-06-16 00:21:15 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:21:15 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/jms-contract-driven-development-leverage-asyncapi-specs-as-executable-contracts/ has been purged, triggered by action: save_post 
+[2025-06-16 00:22:59 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:22:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/google-pubsub-contract-driven-development-leverage-asyncapi-specs-as-executable-contracts/ has been purged, triggered by action: save_post 
+[2025-06-16 00:25:43 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:25:43 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/transform-your-wsdl-specifications-into-executable-contracts-in-seconds-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 00:26:39 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:26:39 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/kafka-contract-driven-development-leverage-asyncapi-specs-as-executable-contracts/ has been purged, triggered by action: save_post 
+[2025-06-16 00:28:00 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:28:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/api-resiliency-and-contract-testing-for-resp-redis/ has been purged, triggered by action: save_post 
+[2025-06-16 00:28:50 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:28:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/transform-your-grpc-proto-files-into-executable-contracts-in-seconds-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 00:29:34 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:29:34 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/jdbc-contract-driven-development-leverage-asyncapi-specs-as-executable-contracts/ has been purged, triggered by action: save_post 
+[2025-06-16 00:31:08 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:31:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/transform-your-asyncapi-specs-into-executable-contracts-in-seconds-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 00:31:55 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:31:55 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/transform-your-graphql-specs-into-executable-contracts-in-seconds-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 00:32:58 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:32:58 : INFO] - Cache for URL: https://specmatic.dvox.biz/features/transform-your-openapi-specs-into-executable-contracts-in-seconds-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 00:48:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/pricing/ has been purged, triggered by action: save_post 
+[2025-06-16 00:48:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/pricing/ has been purged, triggered by action: save_post 
+[2025-06-16 00:48:08 : INFO] - Cache for URL: https://specmatic.dvox.biz/pricing/ has been purged, triggered by action: save_post 
+[2025-06-16 00:55:37 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:55:37 : INFO] - Cache for URL: https://specmatic.dvox.biz/updates/2023-year-in-review/ has been purged, triggered by action: save_post 
+[2025-06-16 00:55:37 : INFO] - Cache for blog post has been purged due to updates to post with Title: "2023 year in review" and URL: https://specmatic.dvox.biz/updates/2023-year-in-review/, triggered by action: save_post 
+[2025-06-16 00:55:37 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/introduction-to-contract-driven-development-with-specmatic/) adjacent to post with id: 3935 has been purged, triggered by action: save_post 
+[2025-06-16 00:55:37 : INFO] - Cache for next post (with URL: https://specmatic.dvox.biz/updates/specmatic-docker-image/) adjacent to post with id: 3935 has been purged, triggered by action: save_post 
+[2025-06-16 00:55:37 : INFO] - Cache for all archives page associated with post_type: post and Title: "2023 year in review" have been purged, triggered by action: save_post 
+[2025-06-16 00:55:38 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 00:55:38 : INFO] - Cache for URL: https://specmatic.dvox.biz/updates/2023-year-in-review/ has been purged, triggered by action: save_post 
+[2025-06-16 00:55:38 : INFO] - Cache for blog post has been purged due to updates to post with Title: "2023 year in review" and URL: https://specmatic.dvox.biz/updates/2023-year-in-review/, triggered by action: save_post 
+[2025-06-16 00:55:38 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/introduction-to-contract-driven-development-with-specmatic/) adjacent to post with id: 3935 has been purged, triggered by action: save_post 
+[2025-06-16 00:55:38 : INFO] - Cache for next post (with URL: https://specmatic.dvox.biz/updates/specmatic-docker-image/) adjacent to post with id: 3935 has been purged, triggered by action: save_post 
+[2025-06-16 00:55:38 : INFO] - Cache for all archives page associated with post_type: post and Title: "2023 year in review" have been purged, triggered by action: save_post 
+[2025-06-16 00:57:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-06-16 00:57:28 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-06-16 00:57:29 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-06-16 01:01:00 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 01:01:00 : INFO] - Cache for URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 01:01:00 : INFO] - Cache for blog post has been purged due to updates to post with Title: "AWS Lambda Data Pipeline Testing using LocalStack with Specmatic" and URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/, triggered by action: save_post 
+[2025-06-16 01:01:00 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/new-features-and-a-big-announcement-specmatic-is-bringing-apidays-to-india/) adjacent to post with id: 7705 has been purged, triggered by action: save_post 
+[2025-06-16 01:01:00 : INFO] - Cache for all archives page associated with post_type: post and Title: "AWS Lambda Data Pipeline Testing using LocalStack with Specmatic" have been purged, triggered by action: save_post 
+[2025-06-16 01:01:01 : INFO] - Cache for multiple term taxonomy have been purged due to post terms update, triggered by action: set_object_terms 
+[2025-06-16 01:01:01 : INFO] - Cache for URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/ has been purged, triggered by action: save_post 
+[2025-06-16 01:01:01 : INFO] - Cache for blog post has been purged due to updates to post with Title: "AWS Lambda Data Pipeline Testing using LocalStack with Specmatic" and URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/, triggered by action: save_post 
+[2025-06-16 01:01:01 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/new-features-and-a-big-announcement-specmatic-is-bringing-apidays-to-india/) adjacent to post with id: 7705 has been purged, triggered by action: save_post 
+[2025-06-16 01:01:01 : INFO] - Cache for all archives page associated with post_type: post and Title: "AWS Lambda Data Pipeline Testing using LocalStack with Specmatic" have been purged, triggered by action: save_post 
