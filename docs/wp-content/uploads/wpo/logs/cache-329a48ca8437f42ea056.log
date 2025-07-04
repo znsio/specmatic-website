@@ -1698,3 +1698,132 @@
 [2025-06-19 10:17:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
 [2025-06-19 10:17:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
 [2025-06-19 10:17:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:51:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:51:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:51:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:52:59 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-19 10:53:01 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-19 10:53:02 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-19 10:53:04 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-19 10:55:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:55:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:55:16 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-19 10:55:17 : INFO] - Cache for URL: https://specmatic.dvox.biz/specmatic-studio/ has been purged, triggered by action: save_post 
+[2025-06-26 04:48:41 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=8119 has been purged, triggered by action: save_post 
+[2025-06-26 04:48:41 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=8119, triggered by action: save_post 
+[2025-06-26 04:48:41 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/) adjacent to post with id: 8119 has been purged, triggered by action: save_post 
+[2025-06-26 04:48:41 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-06-26 08:55:43 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 08:55:45 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 08:55:47 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 08:55:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:06 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:09 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:11 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:12 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:46 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:48 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-06-26 09:03:51 : INFO] - Cache for URL: https://specmatic.dvox.biz/ has been purged, triggered by action: save_post 
+[2025-07-01 22:48:49 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-07-01 22:48:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-07-01 22:48:50 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-07-04 02:51:23 : INFO] - Cache for URL: https://specmatic.dvox.biz/?p=8139 has been purged, triggered by action: save_post 
+[2025-07-04 02:51:23 : INFO] - Cache for blog post has been purged due to updates to post with Title: "Auto Draft" and URL: https://specmatic.dvox.biz/?p=8139, triggered by action: save_post 
+[2025-07-04 02:51:23 : INFO] - Cache for previous post (with URL: https://specmatic.dvox.biz/updates/aws-lambda-data-pipeline-testing-using-localstack-with-specmatic/) adjacent to post with id: 8139 has been purged, triggered by action: save_post 
+[2025-07-04 02:51:23 : INFO] - Cache for all archives page associated with post_type: post and Title: "Auto Draft" have been purged, triggered by action: save_post 
+[2025-07-04 03:31:28 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/agile-india/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:31:53 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-coverage-report/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:31:53 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-coverage-report/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:32:23 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-design/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:32:23 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-design/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:32:49 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-design-first/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:32:49 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-design-first/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:33:11 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-mocking/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:33:11 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-mocking/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:34:00 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-resliency/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:34:00 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-resliency/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:34:35 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:34:35 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:34:57 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/asyncapi/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:34:57 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/asyncapi/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:35:18 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/bdct/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:35:18 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/bdct/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:35:41 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/bi-directional-contract-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:35:41 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/bi-directional-contract-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:36:04 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/case-study/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:36:04 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/case-study/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:36:26 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/cdct/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:36:26 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/cdct/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:36:46 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/cdd/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:36:46 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/cdd/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:37:07 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/conference/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:37:07 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/conference/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:37:25 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/conference/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:37:25 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/conference/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:37:48 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/consumer-driven-contract/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:37:48 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/consumer-driven-contract/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:38:07 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/consumer-driven-contract-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:38:07 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/consumer-driven-contract-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:38:31 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/continuous-delivery/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:38:31 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/continuous-delivery/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:38:54 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/contract-driven-development/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:38:54 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/contract-driven-development/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:39:18 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/contract-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:39:18 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/contract-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:39:38 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/database-stubbing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:39:38 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/database-stubbing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:41:10 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/demonstration/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:41:10 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/demonstration/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:41:30 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/docker/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:41:51 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/google-pub-sub/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:41:51 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/google-pub-sub/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:42:18 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/graphql/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:42:18 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/graphql/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:42:44 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/grpc/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:42:44 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/grpc/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:43:06 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/http/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:43:06 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/http/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:43:57 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/integration-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:43:57 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/integration-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:44:27 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/jdbc/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:44:27 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/jdbc/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:45:41 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/jms/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:45:41 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/jms/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:46:04 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/kafka/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:46:04 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/kafka/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:51:17 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/live-stream/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:51:17 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/live-stream/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:51:39 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/microservices/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:51:39 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/microservices/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:53:40 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/pact/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:53:40 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/pact/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:54:03 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/pactflow/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:54:03 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/pactflow/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:58:47 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/past/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:58:47 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/past/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:59:28 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/provider-driven-contract/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:59:28 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/provider-driven-contract/ have been purged, triggered by action: edit_terms 
+[2025-07-04 03:59:51 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/redis/  have been purged, triggered by action: edit_terms 
+[2025-07-04 03:59:51 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/redis/ have been purged, triggered by action: edit_terms 
+[2025-07-04 04:00:14 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/resiliency-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 04:00:14 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/resiliency-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 04:00:37 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/shift-left/  have been purged, triggered by action: edit_terms 
+[2025-07-04 04:00:37 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/shift-left/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:01:12 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/demonstration/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:01:12 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/demonstration/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:02:10 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/kafka/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:02:10 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/kafka/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:02:42 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/asyncapi/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:02:42 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/asyncapi/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:03:10 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/asyncapi/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:03:10 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/asyncapi/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:03:40 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/contract-driven-development/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:03:40 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/contract-driven-development/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:04:10 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/contract-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:04:10 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/contract-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:05:02 : INFO] - Cache for term page with URL: https://specmatic.dvox.biz/tag/api-testing/  have been purged, triggered by action: edit_terms 
+[2025-07-04 05:05:02 : INFO] - Cache for associated posts for term with URL: https://specmatic.dvox.biz/tag/api-testing/ have been purged, triggered by action: edit_terms 
+[2025-07-04 05:07:31 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-07-04 05:07:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
+[2025-07-04 05:07:32 : INFO] - Cache for URL: https://specmatic.dvox.biz/roadmap/ has been purged, triggered by action: save_post 
